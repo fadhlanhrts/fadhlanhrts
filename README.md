@@ -1,14 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-# I am an undergraduate Computer Engineering student from Universitas Indonesia, most of my repos are my class projects and personal projects. Currently I am interested in learning more about the open source community so please feel free to contact me anytime through Twitter and Instagram
+## I am an undergraduate Computer Engineering student from Universitas Indonesia, most of my repos are my class projects and personal projects. Currently I am interested in learning more about the open source community so please feel free to contact me anytime through Twitter and Instagram
 
-#🌱 I’m currently learning Python, PHP, and Java
+🌱 I’m currently learning Python, PHP, and Java
 
-#📫 How to reach me:
-#Twitter : fadhlanhrts
-#Instagram : fadhlanhrts
+📫 How to reach me:
+Twitter : fadhlanhrts
+Instagram : fadhlanhrts
 
-#⚡ Fun fact: I'm interested in both organizational and human resource development
+⚡ Fun fact: I'm interested in both organizational and human resource development
 
 <!--
 **fadhlanhrts/fadhlanhrts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
