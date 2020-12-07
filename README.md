@@ -4,9 +4,12 @@ Hello everyone ! I am an undergraduate Computer Engineering student from Univers
 
 • Twitter/Instagram : fadhlanhrts
 
-🌱 I’m currently learning Java, SQL, and Python
+I’m currently learning Java, SQL, and Python
 
-📫 How to reach me: fadhlan.harits@gmail.com
+📫 How to reach me: 
+fadhlan.harits@gmail.com
+or
+muhammad.fadhlan81@ui.ac.id
 
 ⚡ Fun fact: I'm interested in both organizational and human resource development
 
