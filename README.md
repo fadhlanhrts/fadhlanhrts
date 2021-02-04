@@ -11,7 +11,7 @@ fadhlan.harits@gmail.com
 or
 muhammad.fadhlan81@ui.ac.id
 
-⚡ Fun fact: I'm interested in both organizational and human resource development
+⚡ Fun fact: I'm interested in playing guitar and sometimes I like to do some karaoke
 
 <!--
 **fadhlanhrts/fadhlanhrts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
