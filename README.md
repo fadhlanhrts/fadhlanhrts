@@ -1,4 +1,4 @@
-## Harits
+## Muhammad Fadhlan Harits
 
 Hello everyone ! I am an undergraduate Computer Engineering student from Universitas Indonesia, most of my repos are my class projects and personal projects. Currently I am interested in learning more about the open source community so please feel free to contact me anytime through Twitter and Instagram
 
