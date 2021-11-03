@@ -4,7 +4,7 @@ Hello everyone ! I am an undergraduate Computer Engineering student from Univers
 
 • Twitter/Instagram : fadhlanhrts
 
-I’m currently learning Java, SQLite, Go, and Python
+I’m currently learning Java, SQLite, Go, Ruby, and Python
 
 📫 How to reach me: 
 fadhlan.harits@gmail.com
