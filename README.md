@@ -13,7 +13,7 @@ I’m currently learning Java, SQLite, Go, Ruby, and Python
 📫 How to reach me: 
 fadhlan.harits@gmail.com
 
-⚡ Fun fact: I have lots of cat pictures because I like cats but allergic to their furs :D
+⚡ Fun fact: I have lots of cat pictures because I like cats but allergic to their fur :D
 
 <!--
 **fadhlanhrts/fadhlanhrts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
