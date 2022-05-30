@@ -1,19 +1,19 @@
 ## Muhammad Fadhlan Harits
 
-Hello everyone ! I am an undergraduate Computer Engineering student from Universitas Indonesia, most of my repos are my class projects and personal projects. Currently I am currently interested in learning more about Cybersecurity and DevOps so please feel free to contact me anytime through Twitter, Instagram, and Linkedin
+Hello everyone ! I am an undergraduate Computer Engineering student from Universitas Indonesia, most of my repos are my class projects and personal projects. Currently I am currently interested in learning more about Cybersecurity and DevOps so please feel free to contact me anytime through Email, Twitter, Instagram, and Linkedin
 
 • Twitter/Instagram : fadhlanhrts
 
 • LinkedIn : Muhammad Fadhlan Harits
 
+• Medium : medium.com/@fadhlanhrts
+
 I’m currently learning Java, SQLite, Go, Ruby, and Python
 
 📫 How to reach me: 
 fadhlan.harits@gmail.com
-or
-muhammad.fadhlan81@ui.ac.id
 
-⚡ Fun fact: I'm interested in playing guitar and sometimes I like to do some karaoke
+⚡ Fun fact: I have lots of cat pictures because I like cats but allergic to their furs :D
 
 <!--
 **fadhlanhrts/fadhlanhrts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
