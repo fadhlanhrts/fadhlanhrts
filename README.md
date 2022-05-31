@@ -1,6 +1,6 @@
 ## Muhammad Fadhlan Harits
 
-Hello everyone ! Nice to e-meet you. My name is Harits, I am an undergraduate Computer Engineering student from Universitas Indonesia, most of my repos are projects for my undergraduate classes and my personal projects. Currently I am currently interested in learning more about Cybersecurity and DevOps so please feel free to contact me anytime through Email, Twitter, Instagram, and Linkedin
+Hello everyone ! Nice to e-meet you. My name is Harits, I am an undergraduate Computer Engineering student from Universitas Indonesia, most of my repos are projects for my undergraduate classes and my personal projects. Currently I am interested in learning more about Cybersecurity and DevOps so please feel free to contact me anytime through Email, Twitter, Instagram, and Linkedin
 
 • Twitter/Instagram : fadhlanhrts
 
