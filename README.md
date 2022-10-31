@@ -1,6 +1,6 @@
 ## Muhammad Fadhlan Harits
 
-Hello everyone ! Nice to e-meet you. My name is Harits, I am an SDET at an e-commerce company, most of my repos are projects for my undergraduate classes and my personal projects. Currently I am interested in learning more about Software Engineering, Cybersecurity, and DevOps so please feel free to contact me anytime through Email, Twitter, Instagram, and Linkedin
+Hello everyone ! Nice to e-meet you. My name is Harits, I am an SDET at an e-commerce company, most of my repos are projects for my undergraduate classes and my personal projects. Currently I am interested in learning more about Software Engineering, Cybersecurity, and DevOps so please feel free to contact me anytime through these platforms
 
 • Twitter/Instagram : fadhlanhrts
 
@@ -8,10 +8,7 @@ Hello everyone ! Nice to e-meet you. My name is Harits, I am an SDET at an e-com
 
 • Medium : medium.com/@fadhlanhrts
 
-I’m currently learning Java, SQLite, Go, Ruby, and Python
-
-📫 How to reach me: 
-fadhlan.harits@gmail.com
+I’m currently interested in Java, Go, Cloud, and Python
 
 ⚡ Fun fact: I have lots of cat pictures because I like cats but allergic to their fur :D
 
